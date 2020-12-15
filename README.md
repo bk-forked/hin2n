@@ -6,6 +6,6 @@
 
 #### 2020.09.21
 * Forked from [switch-iot/hin2n](https://github.com/switch-iot/hin2n)
-* Upload the [Releases](https://github.com/bttb520/hin2n/releases)
+* Upload the [Releases](https://github.com/bk-forked/hin2n/releases)
 * Rename README.md to README_BAK.md
 * Create README.md
